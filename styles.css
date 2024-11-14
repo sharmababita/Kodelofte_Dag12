@@ -128,8 +128,7 @@ main {
 }
 
 @keyframes spin {
-  0% {
-  }
+  0% {}
 
   50% {
     scale: 2;
@@ -142,4 +141,11 @@ main {
     transform: rotate(360deg);
     scale: 2;
   }
+}
+
+.bouncyball {
+  width: 300px;
+  height: 300px;
+  background-color: #120d31;
+  border-radius: 100%;
 }
