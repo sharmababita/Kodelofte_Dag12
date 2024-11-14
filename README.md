@@ -18,4 +18,9 @@ Together with querySelector(), addEventListener() gives us the ability to retrie
 
 Together, these two techniques create a powerful tool for building dynamic and interactive websites, where we can react to the user's actions and adapt
 
+Resources----------------------------------------------------------------------------------
+[https://www.w3schools.com/css/css3_transitions.asp](url)
+https://www.w3schools.com/css/css3_transitions.asp
+[https://github.com/JulieKodehode/kodeloftetG11_undervisning12](url)
+
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sharmababita/Kodelofte_Dag12)
